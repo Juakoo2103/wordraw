@@ -17,6 +17,7 @@ function App() {
   const [selectedWord, setSelectedWord] = useState(null);
   const [phaseIndex, setPhaseIndex] = useState(-1);
   const [isPlaying, setIsPlaying] = useState(false);
+  const [timerKey, setTimerKey] = useState(0); // Clave única para reiniciar el temporizador
 
   const [playStart] = useSound(startSfx);
 
@@ -33,8 +34,9 @@ function App() {
   const nextPhase = () => {
     const next = phaseIndex + 1;
     if (next < phases.length) {
-      setPhaseIndex(next);
-      setIsPlaying(true);
+      setPhaseIndex(next); // Cambia a la siguiente fase
+      setTimerKey((prevKey) => prevKey + 1); // Reinicia el temporizador
+      setIsPlaying(true); // Activa el temporizador
       const sound = phases[next].sound;
       if (sound) {
         switch (phases[next].key) {
@@ -47,7 +49,7 @@ function App() {
         }
       }
     } else {
-      setIsPlaying(false);
+      setIsPlaying(false); // Detén el temporizador al final
     }
   };
 
@@ -55,7 +57,9 @@ function App() {
     const rand = Math.floor(Math.random() * words.length);
     setSelectedWord(words[rand]);
     setPhaseIndex(0); // Reinicia la fase al inicio
-    setIsPlaying(true); // Asegúrate de que el temporizador esté activo
+    setIsPlaying(false); // Detén el temporizador antes de reiniciarlo
+    setTimerKey((prevKey) => prevKey + 1); // Cambia la clave para reiniciar el temporizador
+    setTimeout(() => setIsPlaying(true), 0); // Reactiva el temporizador después de reiniciar
     playStart(); // Reproduce el sonido de inicio
   };
 
@@ -63,6 +67,11 @@ function App() {
   // const removeWord = (wordToRemove) => {
   //   setWords((prevWords) => prevWords.filter((word) => word !== wordToRemove));
   // };
+
+  console.log("Current phase:", phase);
+  console.log("Phase duration:", phase?.duration);
+  console.log("Timer key:", timerKey);
+  console.log("Is playing:", isPlaying);
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-900 text-white p-4">
@@ -82,9 +91,9 @@ function App() {
           <h2 className="text-2xl animate-pulse">{phase.label}</h2>
 
           <CountdownCircleTimer
-            key={phase.key} // Clave única para reiniciar el temporizador al cambiar de fase
+            key={timerKey} // Clave única para reiniciar el temporizador
             isPlaying={isPlaying}
-            duration={phase.duration}
+            duration={phase.duration} // Duración de la fase actual
             colors={["#4ade80", "#facc15", "#f87171"]}
             colorsTime={[phase.duration, phase.duration / 2, 0]}
             onComplete={() => {
@@ -108,7 +117,12 @@ function App() {
               </p>
               <button
                 onClick={rerollWord}
-                className="bg-red-500 hover:bg-red-600 px-4 py-2 rounded text-sm font-semibold mt-2"
+                disabled={phase && phase.key === "ready"} // Asegúrate de que phase no sea null
+                className={`bg-red-500 hover:bg-red-600 px-4 py-2 rounded text-sm font-semibold mt-2 ${
+                  phase && phase.key === "ready"
+                    ? "opacity-50 cursor-not-allowed"
+                    : ""
+                }`}
               >
                 Cambiar palabra
               </button>
