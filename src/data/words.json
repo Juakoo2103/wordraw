@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "category": "Personas/Famosos",
+    "word": "Albert Einstein"
+  },
+  {
+    "id": 2,
+    "category": "Personas/Famosos",
+    "word": "Shakira"
+  },
+  {
+    "id": 3,
+    "category": "Personas/Famosos",
+    "word": "Messi"
+  },
+  {
+    "id": 4,
+    "category": "Personas/Famosos",
+    "word": "Frida Kahlo"
+  },
+  {
+    "id": 5,
+    "category": "Personas/Famosos",
+    "word": "Spider-Man"
+  },
+  {
+    "id": 6,
+    "category": "Personas/Famosos",
+    "word": "Mario Bros"
+  },
+  {
+    "id": 7,
+    "category": "Personas/Famosos",
+    "word": "Lady Gaga"
+  },
+  {
+    "id": 8,
+    "category": "Personas/Famosos",
+    "word": "Barack Obama"
+  },
+  {
+    "id": 9,
+    "category": "Personas/Famosos",
+    "word": "Cleopatra"
+  },
+  {
+    "id": 10,
+    "category": "Personas/Famosos",
+    "word": "Elvis Presley"
+  },
+  {
+    "id": 11,
+    "category": "Personas/Famosos",
+    "word": "Bob Marley"
+  },
+  {
+    "id": 12,
+    "category": "Personas/Famosos",
+    "word": "Harry Potter"
+  },
+  {
+    "id": 13,
+    "category": "Personas/Famosos",
+    "word": "Michael Jackson"
+  },
+  {
+    "id": 14,
+    "category": "Personas/Famosos",
+    "word": "La Mona Lisa"
+  },
+  {
+    "id": 15,
+    "category": "Personas/Famosos",
+    "word": "Pikachu"
+  },
+  {
+    "id": 16,
+    "category": "Personas/Famosos",
+    "word": "Darth Vader"
+  },
+  {
+    "id": 17,
+    "category": "Personas/Famosos",
+    "word": "Chapulín Colorado"
+  },
+  {
+    "id": 18,
+    "category": "Personas/Famosos",
+    "word": "Bad Bunny"
+  },
+  {
+    "id": 19,
+    "category": "Personas/Famosos",
+    "word": "Goku"
+  },
+  {
+    "id": 20,
+    "category": "Personas/Famosos",
+    "word": "Steve Jobs"
+  },
+  {
+    "id": 21,
+    "category": "Personas/Famosos",
+    "word": "Beyoncé"
+  },
+  {
+    "id": 22,
+    "category": "Personas/Famosos",
+    "word": "Maluma"
+  },
+  {
+    "id": 23,
+    "category": "Personas/Famosos",
+    "word": "Sherlock Holmes"
+  },
+  {
+    "id": 24,
+    "category": "Personas/Famosos",
+    "word": "Donald Trump"
+  },
+  {
+    "id": 25,
+    "category": "Personas/Famosos",
+    "word": "Lionel Richie"
+  },
+  {
+    "id": 26,
+    "category": "Personas/Famosos",
+    "word": "Iron Man"
+  },
+  {
+    "id": 27,
+    "category": "Personas/Famosos",
+    "word": "Selena Quintanilla"
+  },
+  {
+    "id": 28,
+    "category": "Personas/Famosos",
+    "word": "Che Guevara"
+  },
+  {
+    "id": 29,
+    "category": "Personas/Famosos",
+    "word": "Joker"
+  },
+  {
+    "id": 30,
+    "category": "Personas/Famosos",
+    "word": "Freddie Mercury"
+  },
+  {
+    "id": 31,
+    "category": "Personas/Famosos",
+    "word": "Cristiano Ronaldo"
+  },
+  {
+    "id": 32,
+    "category": "Personas/Famosos",
+    "word": "Marilyn Monroe"
+  },
+  {
+    "id": 33,
+    "category": "Personas/Famosos",
+    "word": "The Beatles"
+  },
+  {
+    "id": 34,
+    "category": "Personas/Famosos",
+    "word": "Chespirito"
+  },
+  {
+    "id": 35,
+    "category": "Personas/Famosos",
+    "word": "Deadpool"
+  },
+  {
+    "id": 36,
+    "category": "Personas/Famosos",
+    "word": "Bill Gates"
+  },
+  {
+    "id": 37,
+    "category": "Personas/Famosos",
+    "word": "Messi"
+  },
+  {
+    "id": 38,
+    "category": "Personas/Famosos",
+    "word": "Napoleon"
+  },
+  {
+    "id": 39,
+    "category": "Personas/Famosos",
+    "word": "Da Vinci"
+  },
+  {
+    "id": 40,
+    "category": "Personas/Famosos",
+    "word": "Stephen Hawking"
+  },
+  {
+    "id": 41,
+    "category": "Personas/Famosos",
+    "word": "Jennifer Lopez"
+  },
+  {
+    "id": 42,
+    "category": "Personas/Famosos",
+    "word": "Drake"
+  },
+  {
+    "id": 43,
+    "category": "Personas/Famosos",
+    "word": "Bart Simpson"
+  },
+  {
+    "id": 44,
+    "category": "Personas/Famosos",
+    "word": "Taylor Swift"
+  },
+  {
+    "id": 45,
+    "category": "Personas/Famosos",
+    "word": "Thalía"
+  },
+  {
+    "id": 46,
+    "category": "Personas/Famosos",
+    "word": "Scooby-Doo"
+  },
+  {
+    "id": 47,
+    "category": "Personas/Famosos",
+    "word": "Dwayne Johnson"
+  },
+  {
+    "id": 48,
+    "category": "Personas/Famosos",
+    "word": "Kim Kardashian"
+  },
+  {
+    "id": 49,
+    "category": "Personas/Famosos",
+    "word": "Usain Bolt"
+  },
+  {
+    "id": 50,
+    "category": "Personas/Famosos",
+    "word": "Will Smith"
+  },
+  {
+    "id": 51,
+    "category": "Animales",
+    "word": "Perro"
+  },
+  {
+    "id": 52,
+    "category": "Animales",
+    "word": "Gato"
+  },
+  {
+    "id": 53,
+    "category": "Animales",
+    "word": "Elefante"
+  },
+  {
+    "id": 54,
+    "category": "Animales",
+    "word": "León"
+  },
+  {
+    "id": 55,
+    "category": "Animales",
+    "word": "Cebra"
+  },
+  {
+    "id": 56,
+    "category": "Animales",
+    "word": "Jirafa"
+  },
+  {
+    "id": 57,
+    "category": "Animales",
+    "word": "Vaca"
+  },
+  {
+    "id": 58,
+    "category": "Animales",
+    "word": "Cerdo"
+  },
+  {
+    "id": 59,
+    "category": "Animales",
+    "word": "Mono"
+  },
+  {
+    "id": 60,
+    "category": "Animales",
+    "word": "Caballo"
+  },
+  {
+    "id": 61,
+    "category": "Animales",
+    "word": "Rana"
+  },
+  {
+    "id": 62,
+    "category": "Animales",
+    "word": "Delfín"
+  },
+  {
+    "id": 63,
+    "category": "Animales",
+    "word": "Oso"
+  },
+  {
+    "id": 64,
+    "category": "Animales",
+    "word": "Tigre"
+  },
+  {
+    "id": 65,
+    "category": "Animales",
+    "word": "Zorro"
+  },
+  {
+    "id": 66,
+    "category": "Animales",
+    "word": "Ratón"
+  },
+  {
+    "id": 67,
+    "category": "Animales",
+    "word": "Pato"
+  },
+  {
+    "id": 68,
+    "category": "Animales",
+    "word": "Águila"
+  },
+  {
+    "id": 69,
+    "category": "Animales",
+    "word": "Búho"
+  },
+  {
+    "id": 70,
+    "category": "Animales",
+    "word": "Camello"
+  },
+  {
+    "id": 71,
+    "category": "Animales",
+    "word": "Pez"
+  },
+  {
+    "id": 72,
+    "category": "Animales",
+    "word": "Tortuga"
+  },
+  {
+    "id": 73,
+    "category": "Animales",
+    "word": "Pingüino"
+  },
+  {
+    "id": 74,
+    "category": "Animales",
+    "word": "Canguro"
+  },
+  {
+    "id": 75,
+    "category": "Animales",
+    "word": "Gallina"
+  },
+  {
+    "id": 76,
+    "category": "Animales",
+    "word": "Lobo"
+  },
+  {
+    "id": 77,
+    "category": "Animales",
+    "word": "Serpiente"
+  },
+  {
+    "id": 78,
+    "category": "Animales",
+    "word": "Cangrejo"
+  },
+  {
+    "id": 79,
+    "category": "Animales",
+    "word": "Pulpo"
+  },
+  {
+    "id": 80,
+    "category": "Animales",
+    "word": "Murciélago"
+  },
+  {
+    "id": 81,
+    "category": "Animales",
+    "word": "Burro"
+  },
+  {
+    "id": 82,
+    "category": "Animales",
+    "word": "Gallo"
+  },
+  {
+    "id": 83,
+    "category": "Animales",
+    "word": "Loro"
+  },
+  {
+    "id": 84,
+    "category": "Animales",
+    "word": "Ardilla"
+  },
+  {
+    "id": 85,
+    "category": "Animales",
+    "word": "Foca"
+  },
+  {
+    "id": 86,
+    "category": "Animales",
+    "word": "Mapache"
+  },
+  {
+    "id": 87,
+    "category": "Animales",
+    "word": "Koala"
+  },
+  {
+    "id": 88,
+    "category": "Animales",
+    "word": "Pantera"
+  },
+  {
+    "id": 89,
+    "category": "Animales",
+    "word": "Rinoceronte"
+  },
+  {
+    "id": 90,
+    "category": "Animales",
+    "word": "Hipopótamo"
+  },
+  {
+    "id": 91,
+    "category": "Animales",
+    "word": "Hurón"
+  },
+  {
+    "id": 92,
+    "category": "Animales",
+    "word": "Ganso"
+  },
+  {
+    "id": 93,
+    "category": "Animales",
+    "word": "Abeja"
+  },
+  {
+    "id": 94,
+    "category": "Animales",
+    "word": "Mosquito"
+  },
+  {
+    "id": 95,
+    "category": "Animales",
+    "word": "Mariposa"
+  },
+  {
+    "id": 96,
+    "category": "Animales",
+    "word": "Caracol"
+  },
+  {
+    "id": 97,
+    "category": "Animales",
+    "word": "Ciempiés"
+  },
+  {
+    "id": 98,
+    "category": "Animales",
+    "word": "Hormiga"
+  },
+  {
+    "id": 99,
+    "category": "Animales",
+    "word": "Paloma"
+  },
+  {
+    "id": 100,
+    "category": "Animales",
+    "word": "Avestruz"
+  },
+  {
+    "id": 101,
+    "category": "Objetos del Hogar",
+    "word": "Silla"
+  },
+  {
+    "id": 102,
+    "category": "Objetos del Hogar",
+    "word": "Mesa"
+  },
+  {
+    "id": 103,
+    "category": "Objetos del Hogar",
+    "word": "Cama"
+  },
+  {
+    "id": 104,
+    "category": "Objetos del Hogar",
+    "word": "Refrigerador"
+  },
+  {
+    "id": 105,
+    "category": "Objetos del Hogar",
+    "word": "Microondas"
+  },
+  {
+    "id": 106,
+    "category": "Objetos del Hogar",
+    "word": "Lavadora"
+  },
+  {
+    "id": 107,
+    "category": "Objetos del Hogar",
+    "word": "Ventilador"
+  },
+  {
+    "id": 108,
+    "category": "Objetos del Hogar",
+    "word": "Televisión"
+  },
+  {
+    "id": 109,
+    "category": "Objetos del Hogar",
+    "word": "Sofá"
+  },
+  {
+    "id": 110,
+    "category": "Objetos del Hogar",
+    "word": "Espejo"
+  },
+  {
+    "id": 111,
+    "category": "Objetos del Hogar",
+    "word": "Lámpara"
+  },
+  {
+    "id": 112,
+    "category": "Objetos del Hogar",
+    "word": "Taza"
+  },
+  {
+    "id": 113,
+    "category": "Objetos del Hogar",
+    "word": "Plato"
+  },
+  {
+    "id": 114,
+    "category": "Objetos del Hogar",
+    "word": "Cuchillo"
+  },
+  {
+    "id": 115,
+    "category": "Objetos del Hogar",
+    "word": "Cuchara"
+  },
+  {
+    "id": 116,
+    "category": "Objetos del Hogar",
+    "word": "Tenedor"
+  },
+  {
+    "id": 117,
+    "category": "Objetos del Hogar",
+    "word": "Estufa"
+  },
+  {
+    "id": 118,
+    "category": "Objetos del Hogar",
+    "word": "Reloj"
+  },
+  {
+    "id": 119,
+    "category": "Objetos del Hogar",
+    "word": "Cortina"
+  },
+  {
+    "id": 120,
+    "category": "Objetos del Hogar",
+    "word": "Almohada"
+  },
+  {
+    "id": 121,
+    "category": "Objetos del Hogar",
+    "word": "Toalla"
+  },
+  {
+    "id": 122,
+    "category": "Objetos del Hogar",
+    "word": "Inodoro"
+  },
+  {
+    "id": 123,
+    "category": "Objetos del Hogar",
+    "word": "Regadera"
+  },
+  {
+    "id": 124,
+    "category": "Objetos del Hogar",
+    "word": "Control remoto"
+  },
+  {
+    "id": 125,
+    "category": "Objetos del Hogar",
+    "word": "Computadora"
+  },
+  {
+    "id": 126,
+    "category": "Objetos del Hogar",
+    "word": "Celular"
+  },
+  {
+    "id": 127,
+    "category": "Objetos del Hogar",
+    "word": "Plancha"
+  },
+  {
+    "id": 128,
+    "category": "Objetos del Hogar",
+    "word": "Bote de basura"
+  },
+  {
+    "id": 129,
+    "category": "Objetos del Hogar",
+    "word": "Fregadero"
+  },
+  {
+    "id": 130,
+    "category": "Objetos del Hogar",
+    "word": "Cuadro"
+  },
+  {
+    "id": 131,
+    "category": "Objetos del Hogar",
+    "word": "Zapato"
+  },
+  {
+    "id": 132,
+    "category": "Objetos del Hogar",
+    "word": "Cepillo de dientes"
+  },
+  {
+    "id": 133,
+    "category": "Objetos del Hogar",
+    "word": "Shampoo"
+  },
+  {
+    "id": 134,
+    "category": "Objetos del Hogar",
+    "word": "Telefono fijo"
+  },
+  {
+    "id": 135,
+    "category": "Objetos del Hogar",
+    "word": "Cafetera"
+  },
+  {
+    "id": 136,
+    "category": "Objetos del Hogar",
+    "word": "Sábana"
+  },
+  {
+    "id": 137,
+    "category": "Objetos del Hogar",
+    "word": "Cesto de ropa"
+  },
+  {
+    "id": 138,
+    "category": "Objetos del Hogar",
+    "word": "Estante"
+  },
+  {
+    "id": 139,
+    "category": "Objetos del Hogar",
+    "word": "Ventana"
+  },
+  {
+    "id": 140,
+    "category": "Objetos del Hogar",
+    "word": "Puerta"
+  },
+  {
+    "id": 141,
+    "category": "Objetos del Hogar",
+    "word": "Aspiradora"
+  },
+  {
+    "id": 142,
+    "category": "Objetos del Hogar",
+    "word": "Escoba"
+  },
+  {
+    "id": 143,
+    "category": "Objetos del Hogar",
+    "word": "Trapeador"
+  },
+  {
+    "id": 144,
+    "category": "Objetos del Hogar",
+    "word": "Balde"
+  },
+  {
+    "id": 145,
+    "category": "Objetos del Hogar",
+    "word": "Perchero"
+  },
+  {
+    "id": 146,
+    "category": "Objetos del Hogar",
+    "word": "Caja"
+  },
+  {
+    "id": 147,
+    "category": "Objetos del Hogar",
+    "word": "Libro"
+  },
+  {
+    "id": 148,
+    "category": "Objetos del Hogar",
+    "word": "Ropa"
+  },
+  {
+    "id": 149,
+    "category": "Objetos del Hogar",
+    "word": "Radio"
+  },
+  {
+    "id": 150,
+    "category": "Objetos del Hogar",
+    "word": "Calendario"
+  },
+  {
+    "id": 151,
+    "category": "Comida y Bebida",
+    "word": "Hamburguesa"
+  },
+  {
+    "id": 152,
+    "category": "Comida y Bebida",
+    "word": "Pizza"
+  },
+  {
+    "id": 153,
+    "category": "Comida y Bebida",
+    "word": "Hot Dog"
+  },
+  {
+    "id": 154,
+    "category": "Comida y Bebida",
+    "word": "Papas fritas"
+  },
+  {
+    "id": 155,
+    "category": "Comida y Bebida",
+    "word": "Coca-Cola"
+  },
+  {
+    "id": 156,
+    "category": "Comida y Bebida",
+    "word": "Agua"
+  },
+  {
+    "id": 157,
+    "category": "Comida y Bebida",
+    "word": "Cerveza"
+  },
+  {
+    "id": 158,
+    "category": "Comida y Bebida",
+    "word": "Taza de café"
+  },
+  {
+    "id": 159,
+    "category": "Comida y Bebida",
+    "word": "Taco"
+  },
+  {
+    "id": 160,
+    "category": "Comida y Bebida",
+    "word": "Sushi"
+  },
+  {
+    "id": 161,
+    "category": "Comida y Bebida",
+    "word": "Helado"
+  },
+  {
+    "id": 162,
+    "category": "Comida y Bebida",
+    "word": "Galleta"
+  },
+  {
+    "id": 163,
+    "category": "Comida y Bebida",
+    "word": "Pastel"
+  },
+  {
+    "id": 164,
+    "category": "Comida y Bebida",
+    "word": "Donas"
+  },
+  {
+    "id": 165,
+    "category": "Comida y Bebida",
+    "word": "Sandwich"
+  },
+  {
+    "id": 166,
+    "category": "Comida y Bebida",
+    "word": "Plátano"
+  },
+  {
+    "id": 167,
+    "category": "Comida y Bebida",
+    "word": "Manzana"
+  },
+  {
+    "id": 168,
+    "category": "Comida y Bebida",
+    "word": "Uvas"
+  },
+  {
+    "id": 169,
+    "category": "Comida y Bebida",
+    "word": "Naranja"
+  },
+  {
+    "id": 170,
+    "category": "Comida y Bebida",
+    "word": "Fresa"
+  },
+  {
+    "id": 171,
+    "category": "Comida y Bebida",
+    "word": "Zanahoria"
+  },
+  {
+    "id": 172,
+    "category": "Comida y Bebida",
+    "word": "Cereal"
+  },
+  {
+    "id": 173,
+    "category": "Comida y Bebida",
+    "word": "Leche"
+  },
+  {
+    "id": 174,
+    "category": "Comida y Bebida",
+    "word": "Chocolate"
+  },
+  {
+    "id": 175,
+    "category": "Comida y Bebida",
+    "word": "Pan"
+  },
+  {
+    "id": 176,
+    "category": "Comida y Bebida",
+    "word": "Huevo"
+  },
+  {
+    "id": 177,
+    "category": "Comida y Bebida",
+    "word": "Pollo"
+  },
+  {
+    "id": 178,
+    "category": "Comida y Bebida",
+    "word": "Carne"
+  },
+  {
+    "id": 179,
+    "category": "Comida y Bebida",
+    "word": "Sopa"
+  },
+  {
+    "id": 180,
+    "category": "Comida y Bebida",
+    "word": "Ensalada"
+  },
+  {
+    "id": 181,
+    "category": "Comida y Bebida",
+    "word": "Chicle"
+  },
+  {
+    "id": 182,
+    "category": "Comida y Bebida",
+    "word": "Arroz"
+  },
+  {
+    "id": 183,
+    "category": "Comida y Bebida",
+    "word": "Queso"
+  },
+  {
+    "id": 184,
+    "category": "Comida y Bebida",
+    "word": "Tortilla"
+  },
+  {
+    "id": 185,
+    "category": "Comida y Bebida",
+    "word": "Empanada"
+  },
+  {
+    "id": 186,
+    "category": "Comida y Bebida",
+    "word": "Arepa"
+  },
+  {
+    "id": 187,
+    "category": "Comida y Bebida",
+    "word": "Tamal"
+  },
+  {
+    "id": 188,
+    "category": "Comida y Bebida",
+    "word": "Mole"
+  },
+  {
+    "id": 189,
+    "category": "Comida y Bebida",
+    "word": "Pescado"
+  },
+  {
+    "id": 190,
+    "category": "Comida y Bebida",
+    "word": "Yogur"
+  },
+  {
+    "id": 191,
+    "category": "Comida y Bebida",
+    "word": "Nachos"
+  },
+  {
+    "id": 192,
+    "category": "Comida y Bebida",
+    "word": "Agua de sabor"
+  },
+  {
+    "id": 193,
+    "category": "Comida y Bebida",
+    "word": "Té"
+  },
+  {
+    "id": 194,
+    "category": "Comida y Bebida",
+    "word": "Panqueques"
+  },
+  {
+    "id": 195,
+    "category": "Comida y Bebida",
+    "word": "Miel"
+  },
+  {
+    "id": 196,
+    "category": "Comida y Bebida",
+    "word": "Ketchup"
+  },
+  {
+    "id": 197,
+    "category": "Comida y Bebida",
+    "word": "Mostaza"
+  },
+  {
+    "id": 198,
+    "category": "Comida y Bebida",
+    "word": "Jugo"
+  },
+  {
+    "id": 199,
+    "category": "Comida y Bebida",
+    "word": "Smoothie"
+  },
+  {
+    "id": 200,
+    "category": "Comida y Bebida",
+    "word": "Burrito"
+  },
+  {
+    "id": 201,
+    "category": "Lugares",
+    "word": "Escuela"
+  },
+  {
+    "id": 202,
+    "category": "Lugares",
+    "word": "Casa"
+  },
+  {
+    "id": 203,
+    "category": "Lugares",
+    "word": "Cine"
+  },
+  {
+    "id": 204,
+    "category": "Lugares",
+    "word": "Supermercado"
+  },
+  {
+    "id": 205,
+    "category": "Lugares",
+    "word": "Hospital"
+  },
+  {
+    "id": 206,
+    "category": "Lugares",
+    "word": "Playa"
+  },
+  {
+    "id": 207,
+    "category": "Lugares",
+    "word": "Montaña"
+  },
+  {
+    "id": 208,
+    "category": "Lugares",
+    "word": "Parque"
+  },
+  {
+    "id": 209,
+    "category": "Lugares",
+    "word": "Bosque"
+  },
+  {
+    "id": 210,
+    "category": "Lugares",
+    "word": "Zoológico"
+  },
+  {
+    "id": 211,
+    "category": "Lugares",
+    "word": "Estadio"
+  },
+  {
+    "id": 212,
+    "category": "Lugares",
+    "word": "Aeropuerto"
+  },
+  {
+    "id": 213,
+    "category": "Lugares",
+    "word": "Iglesia"
+  },
+  {
+    "id": 214,
+    "category": "Lugares",
+    "word": "Biblioteca"
+  },
+  {
+    "id": 215,
+    "category": "Lugares",
+    "word": "Restaurante"
+  },
+  {
+    "id": 216,
+    "category": "Lugares",
+    "word": "Gimnasio"
+  },
+  {
+    "id": 217,
+    "category": "Lugares",
+    "word": "Museo"
+  },
+  {
+    "id": 218,
+    "category": "Lugares",
+    "word": "Feria"
+  },
+  {
+    "id": 219,
+    "category": "Lugares",
+    "word": "Teatro"
+  },
+  {
+    "id": 220,
+    "category": "Lugares",
+    "word": "Hotel"
+  },
+  {
+    "id": 221,
+    "category": "Lugares",
+    "word": "Banco"
+  },
+  {
+    "id": 222,
+    "category": "Lugares",
+    "word": "Estación de tren"
+  },
+  {
+    "id": 223,
+    "category": "Lugares",
+    "word": "Estación de bomberos"
+  },
+  {
+    "id": 224,
+    "category": "Lugares",
+    "word": "Estación de policía"
+  },
+  {
+    "id": 225,
+    "category": "Lugares",
+    "word": "Oficina"
+  },
+  {
+    "id": 226,
+    "category": "Lugares",
+    "word": "Campo de fútbol"
+  },
+  {
+    "id": 227,
+    "category": "Lugares",
+    "word": "Granja"
+  },
+  {
+    "id": 228,
+    "category": "Lugares",
+    "word": "Circo"
+  },
+  {
+    "id": 229,
+    "category": "Lugares",
+    "word": "Tienda"
+  },
+  {
+    "id": 230,
+    "category": "Lugares",
+    "word": "Calle"
+  },
+  {
+    "id": 231,
+    "category": "Lugares",
+    "word": "Casa embrujada"
+  },
+  {
+    "id": 232,
+    "category": "Lugares",
+    "word": "Centro comercial"
+  },
+  {
+    "id": 233,
+    "category": "Lugares",
+    "word": "Piscina"
+  },
+  {
+    "id": 234,
+    "category": "Lugares",
+    "word": "Puente"
+  },
+  {
+    "id": 235,
+    "category": "Lugares",
+    "word": "Desierto"
+  },
+  {
+    "id": 236,
+    "category": "Lugares",
+    "word": "Castillo"
+  },
+  {
+    "id": 237,
+    "category": "Lugares",
+    "word": "Volcán"
+  },
+  {
+    "id": 238,
+    "category": "Lugares",
+    "word": "Isla"
+  },
+  {
+    "id": 239,
+    "category": "Lugares",
+    "word": "Cueva"
+  },
+  {
+    "id": 240,
+    "category": "Lugares",
+    "word": "Nave espacial"
+  },
+  {
+    "id": 241,
+    "category": "Lugares",
+    "word": "Bar"
+  },
+  {
+    "id": 242,
+    "category": "Lugares",
+    "word": "Carretera"
+  },
+  {
+    "id": 243,
+    "category": "Lugares",
+    "word": "Estación de gasolina"
+  },
+  {
+    "id": 244,
+    "category": "Lugares",
+    "word": "Taller mecánico"
+  },
+  {
+    "id": 245,
+    "category": "Lugares",
+    "word": "Escuela de magia"
+  },
+  {
+    "id": 246,
+    "category": "Lugares",
+    "word": "Estación del metro"
+  },
+  {
+    "id": 247,
+    "category": "Lugares",
+    "word": "Heladería"
+  },
+  {
+    "id": 248,
+    "category": "Lugares",
+    "word": "Patio"
+  },
+  {
+    "id": 249,
+    "category": "Lugares",
+    "word": "Ascensor"
+  },
+  {
+    "id": 250,
+    "category": "Lugares",
+    "word": "Torre"
+  },
+  {
+    "id": 251,
+    "category": "Deportes",
+    "word": "Fútbol"
+  },
+  {
+    "id": 252,
+    "category": "Deportes",
+    "word": "Baloncesto"
+  },
+  {
+    "id": 253,
+    "category": "Deportes",
+    "word": "Tenis"
+  },
+  {
+    "id": 254,
+    "category": "Deportes",
+    "word": "Natación"
+  },
+  {
+    "id": 255,
+    "category": "Deportes",
+    "word": "Béisbol"
+  },
+  {
+    "id": 256,
+    "category": "Deportes",
+    "word": "Ciclismo"
+  },
+  {
+    "id": 257,
+    "category": "Deportes",
+    "word": "Boxeo"
+  },
+  {
+    "id": 258,
+    "category": "Deportes",
+    "word": "Golf"
+  },
+  {
+    "id": 259,
+    "category": "Deportes",
+    "word": "Hockey"
+  },
+  {
+    "id": 260,
+    "category": "Deportes",
+    "word": "Rugby"
+  },
+  {
+    "id": 261,
+    "category": "Deportes",
+    "word": "Atletismo"
+  },
+  {
+    "id": 262,
+    "category": "Deportes",
+    "word": "Gimnasia"
+  },
+  {
+    "id": 263,
+    "category": "Deportes",
+    "word": "Voleibol"
+  },
+  {
+    "id": 264,
+    "category": "Deportes",
+    "word": "Esgrima"
+  },
+  {
+    "id": 265,
+    "category": "Deportes",
+    "word": "Remo"
+  },
+  {
+    "id": 266,
+    "category": "Deportes",
+    "word": "Patinaje"
+  },
+  {
+    "id": 267,
+    "category": "Deportes",
+    "word": "Escalada"
+  },
+  {
+    "id": 268,
+    "category": "Deportes",
+    "word": "Surf"
+  },
+  {
+    "id": 269,
+    "category": "Deportes",
+    "word": "Snowboard"
+  },
+  {
+    "id": 270,
+    "category": "Deportes",
+    "word": "Skateboarding"
+  },
+  {
+    "id": 271,
+    "category": "Deportes",
+    "word": "Automovilismo"
+  },
+  {
+    "id": 272,
+    "category": "Deportes",
+    "word": "Lucha libre"
+  },
+  {
+    "id": 273,
+    "category": "Deportes",
+    "word": "Artes marciales"
+  },
+  {
+    "id": 274,
+    "category": "Deportes",
+    "word": "Ping pong"
+  },
+  {
+    "id": 275,
+    "category": "Deportes",
+    "word": "Bádminton"
+  },
+  {
+    "id": 276,
+    "category": "Deportes",
+    "word": "Triatlón"
+  },
+  {
+    "id": 277,
+    "category": "Deportes",
+    "word": "Esquí"
+  },
+  {
+    "id": 278,
+    "category": "Deportes",
+    "word": "Carrera de caballos"
+  },
+  {
+    "id": 279,
+    "category": "Deportes",
+    "word": "Paracaidismo"
+  },
+  {
+    "id": 280,
+    "category": "Deportes",
+    "word": "Parkour"
+  },
+  {
+    "id": 281,
+    "category": "Deportes",
+    "word": "Polo"
+  },
+  {
+    "id": 282,
+    "category": "Deportes",
+    "word": "Caza"
+  },
+  {
+    "id": 283,
+    "category": "Deportes",
+    "word": "Pesca"
+  },
+  {
+    "id": 284,
+    "category": "Deportes",
+    "word": "Billar"
+  },
+  {
+    "id": 285,
+    "category": "Deportes",
+    "word": "Dardos"
+  },
+  {
+    "id": 286,
+    "category": "Deportes",
+    "word": "Bolos"
+  },
+  {
+    "id": 287,
+    "category": "Deportes",
+    "word": "Tiro al blanco"
+  },
+  {
+    "id": 288,
+    "category": "Deportes",
+    "word": "Canotaje"
+  },
+  {
+    "id": 289,
+    "category": "Deportes",
+    "word": "Buceo"
+  },
+  {
+    "id": 290,
+    "category": "Deportes",
+    "word": "Kitesurf"
+  },
+  {
+    "id": 291,
+    "category": "Deportes",
+    "word": "Senderismo"
+  },
+  {
+    "id": 292,
+    "category": "Deportes",
+    "word": "Marcha atlética"
+  },
+  {
+    "id": 293,
+    "category": "Deportes",
+    "word": "Halterofilia"
+  },
+  {
+    "id": 294,
+    "category": "Deportes",
+    "word": "CrossFit"
+  },
+  {
+    "id": 295,
+    "category": "Deportes",
+    "word": "Paintball"
+  },
+  {
+    "id": 296,
+    "category": "Deportes",
+    "word": "Paddle"
+  },
+  {
+    "id": 297,
+    "category": "Deportes",
+    "word": "Escopeta olímpica"
+  },
+  {
+    "id": 298,
+    "category": "Deportes",
+    "word": "Cricket"
+  },
+  {
+    "id": 299,
+    "category": "Deportes",
+    "word": "Lacrosse"
+  },
+  {
+    "id": 300,
+    "category": "Deportes",
+    "word": "Softball"
+  },
+  {
+    "id": 301,
+    "category": "Películas",
+    "word": "Titanic"
+  },
+  {
+    "id": 302,
+    "category": "Películas",
+    "word": "Star Wars"
+  },
+  {
+    "id": 303,
+    "category": "Películas",
+    "word": "Jurassic Park"
+  },
+  {
+    "id": 304,
+    "category": "Películas",
+    "word": "Harry Potter"
+  },
+  {
+    "id": 305,
+    "category": "Películas",
+    "word": "El Señor de los Anillos"
+  },
+  {
+    "id": 306,
+    "category": "Películas",
+    "word": "Avatar"
+  },
+  {
+    "id": 307,
+    "category": "Películas",
+    "word": "Matrix"
+  },
+  {
+    "id": 308,
+    "category": "Películas",
+    "word": "Shrek"
+  },
+  {
+    "id": 309,
+    "category": "Películas",
+    "word": "Toy Story"
+  },
+  {
+    "id": 310,
+    "category": "Películas",
+    "word": "Frozen"
+  },
+  {
+    "id": 311,
+    "category": "Películas",
+    "word": "Intensamente"
+  },
+  {
+    "id": 312,
+    "category": "Películas",
+    "word": "El Rey León"
+  },
+  {
+    "id": 313,
+    "category": "Películas",
+    "word": "Up"
+  },
+  {
+    "id": 314,
+    "category": "Películas",
+    "word": "Spider-Man"
+  },
+  {
+    "id": 315,
+    "category": "Películas",
+    "word": "Iron Man"
+  },
+  {
+    "id": 316,
+    "category": "Películas",
+    "word": "Batman"
+  },
+  {
+    "id": 317,
+    "category": "Películas",
+    "word": "Superman"
+  },
+  {
+    "id": 318,
+    "category": "Películas",
+    "word": "Black Panther"
+  },
+  {
+    "id": 319,
+    "category": "Películas",
+    "word": "Avengers"
+  },
+  {
+    "id": 320,
+    "category": "Películas",
+    "word": "Guardianes de la Galaxia"
+  },
+  {
+    "id": 321,
+    "category": "Películas",
+    "word": "Capitán América"
+  },
+  {
+    "id": 322,
+    "category": "Películas",
+    "word": "Hulk"
+  },
+  {
+    "id": 323,
+    "category": "Películas",
+    "word": "Doctor Strange"
+  },
+  {
+    "id": 324,
+    "category": "Películas",
+    "word": "Ant-Man"
+  },
+  {
+    "id": 325,
+    "category": "Películas",
+    "word": "Deadpool"
+  },
+  {
+    "id": 326,
+    "category": "Películas",
+    "word": "Venom"
+  },
+  {
+    "id": 327,
+    "category": "Películas",
+    "word": "Cars"
+  },
+  {
+    "id": 328,
+    "category": "Películas",
+    "word": "Buscando a Nemo"
+  },
+  {
+    "id": 329,
+    "category": "Películas",
+    "word": "Los Increíbles"
+  },
+  {
+    "id": 330,
+    "category": "Películas",
+    "word": "Monsters Inc"
+  },
+  {
+    "id": 331,
+    "category": "Películas",
+    "word": "WALL-E"
+  },
+  {
+    "id": 332,
+    "category": "Películas",
+    "word": "Coco"
+  },
+  {
+    "id": 333,
+    "category": "Películas",
+    "word": "Encanto"
+  },
+  {
+    "id": 334,
+    "category": "Películas",
+    "word": "Moana"
+  },
+  {
+    "id": 335,
+    "category": "Películas",
+    "word": "Aladdin"
+  },
+  {
+    "id": 336,
+    "category": "Películas",
+    "word": "Mulan"
+  },
+  {
+    "id": 337,
+    "category": "Películas",
+    "word": "Pocahontas"
+  },
+  {
+    "id": 338,
+    "category": "Películas",
+    "word": "Blanca Nieves"
+  },
+  {
+    "id": 339,
+    "category": "Películas",
+    "word": "La Cenicienta"
+  },
+  {
+    "id": 340,
+    "category": "Películas",
+    "word": "Rapunzel"
+  },
+  {
+    "id": 341,
+    "category": "Películas",
+    "word": "El Diario de una Princesa"
+  },
+  {
+    "id": 342,
+    "category": "Películas",
+    "word": "Mi Villano Favorito"
+  },
+  {
+    "id": 343,
+    "category": "Películas",
+    "word": "Kung Fu Panda"
+  },
+  {
+    "id": 344,
+    "category": "Películas",
+    "word": "Madagascar"
+  },
+  {
+    "id": 345,
+    "category": "Películas",
+    "word": "Cómo entrenar a tu dragón"
+  },
+  {
+    "id": 346,
+    "category": "Películas",
+    "word": "Rápidos y Furiosos"
+  },
+  {
+    "id": 347,
+    "category": "Películas",
+    "word": "007: James Bond"
+  },
+  {
+    "id": 348,
+    "category": "Películas",
+    "word": "Rocky"
+  },
+  {
+    "id": 349,
+    "category": "Películas",
+    "word": "El Padrino"
+  },
+  {
+    "id": 350,
+    "category": "Películas",
+    "word": "El Exorcista"
+  },
+  {
+    "id": 351,
+    "category": "Películas",
+    "word": "Actividad Paranormal"
+  },
+  {
+    "id": 352,
+    "category": "Películas",
+    "word": "Scream"
+  },
+  {
+    "id": 353,
+    "category": "Películas",
+    "word": "It"
+  },
+  {
+    "id": 354,
+    "category": "Películas",
+    "word": "El Conjuro"
+  },
+  {
+    "id": 355,
+    "category": "Películas",
+    "word": "Gladiador"
+  },
+  {
+    "id": 356,
+    "category": "Películas",
+    "word": "Forrest Gump"
+  },
+  {
+    "id": 357,
+    "category": "Películas",
+    "word": "La La Land"
+  },
+  {
+    "id": 358,
+    "category": "Películas",
+    "word": "El Gran Showman"
+  },
+  {
+    "id": 359,
+    "category": "Películas",
+    "word": "Bohemian Rhapsody"
+  },
+  {
+    "id": 360,
+    "category": "Películas",
+    "word": "Rocketman"
+  },
+  {
+    "id": 361,
+    "category": "Películas",
+    "word": "Animales Fantásticos"
+  },
+  {
+    "id": 362,
+    "category": "Películas",
+    "word": "El Código Da Vinci"
+  },
+  {
+    "id": 363,
+    "category": "Películas",
+    "word": "Ángeles y Demonios"
+  },
+  {
+    "id": 364,
+    "category": "Películas",
+    "word": "Los Juegos del Hambre"
+  },
+  {
+    "id": 365,
+    "category": "Películas",
+    "word": "Divergente"
+  },
+  {
+    "id": 366,
+    "category": "Películas",
+    "word": "Maze Runner"
+  },
+  {
+    "id": 367,
+    "category": "Películas",
+    "word": "Piratas del Caribe"
+  },
+  {
+    "id": 368,
+    "category": "Películas",
+    "word": "Alicia en el País de las Maravillas"
+  },
+  {
+    "id": 369,
+    "category": "Películas",
+    "word": "Charlie y la Fábrica de Chocolate"
+  },
+  {
+    "id": 370,
+    "category": "Películas",
+    "word": "El Laberinto del Fauno"
+  },
+  {
+    "id": 371,
+    "category": "Películas",
+    "word": "Narnia"
+  },
+  {
+    "id": 372,
+    "category": "Películas",
+    "word": "Coraline"
+  },
+  {
+    "id": 373,
+    "category": "Películas",
+    "word": "El Castillo Vagabundo"
+  },
+  {
+    "id": 374,
+    "category": "Películas",
+    "word": "Mi Vecino Totoro"
+  },
+  {
+    "id": 375,
+    "category": "Películas",
+    "word": "El Viaje de Chihiro"
+  },
+  {
+    "id": 376,
+    "category": "Películas",
+    "word": "Princesa Mononoke"
+  },
+  {
+    "id": 377,
+    "category": "Películas",
+    "word": "Akira"
+  },
+  {
+    "id": 378,
+    "category": "Películas",
+    "word": "Ghost in the Shell"
+  },
+  {
+    "id": 379,
+    "category": "Películas",
+    "word": "Your Name"
+  },
+  {
+    "id": 380,
+    "category": "Películas",
+    "word": "5 centímetros por segundo"
+  },
+  {
+    "id": 381,
+    "category": "Películas",
+    "word": "La Tumba de las Luciérnagas"
+  },
+  {
+    "id": 382,
+    "category": "Películas",
+    "word": "Spirit"
+  },
+  {
+    "id": 383,
+    "category": "Películas",
+    "word": "Bolt"
+  },
+  {
+    "id": 384,
+    "category": "Películas",
+    "word": "Home"
+  },
+  {
+    "id": 385,
+    "category": "Películas",
+    "word": "Río"
+  },
+  {
+    "id": 386,
+    "category": "Películas",
+    "word": "Zootopia"
+  },
+  {
+    "id": 387,
+    "category": "Películas",
+    "word": "Sing"
+  },
+  {
+    "id": 388,
+    "category": "Películas",
+    "word": "El Gato con Botas"
+  },
+  {
+    "id": 389,
+    "category": "Películas",
+    "word": "Trolls"
+  },
+  {
+    "id": 390,
+    "category": "Películas",
+    "word": "Hotel Transylvania"
+  },
+  {
+    "id": 391,
+    "category": "Películas",
+    "word": "Minions"
+  },
+  {
+    "id": 392,
+    "category": "Películas",
+    "word": "Big Hero 6"
+  },
+  {
+    "id": 393,
+    "category": "Películas",
+    "word": "Ralph el Demoledor"
+  },
+  {
+    "id": 394,
+    "category": "Películas",
+    "word": "Luca"
+  },
+  {
+    "id": 395,
+    "category": "Películas",
+    "word": "Soul"
+  },
+  {
+    "id": 396,
+    "category": "Películas",
+    "word": "Elemental"
+  },
+  {
+    "id": 397,
+    "category": "Películas",
+    "word": "Red"
+  },
+  {
+    "id": 398,
+    "category": "Películas",
+    "word": "Lightyear"
+  },
+  {
+    "id": 399,
+    "category": "Películas",
+    "word": "Turning Red"
+  },
+  {
+    "id": 400,
+    "category": "Películas",
+    "word": "Wish"
+  }
+]
