@@ -18,6 +18,7 @@ function App() {
   const [phaseIndex, setPhaseIndex] = useState(-1);
   const [isPlaying, setIsPlaying] = useState(false);
   const [timerKey, setTimerKey] = useState(0); // Clave única para reiniciar el temporizador
+  const [isWordVisible, setIsWordVisible] = useState(true); // Estado para controlar la visibilidad
 
   const [playStart] = useSound(startSfx);
 
@@ -61,6 +62,10 @@ function App() {
     setTimerKey((prevKey) => prevKey + 1); // Cambia la clave para reiniciar el temporizador
     setTimeout(() => setIsPlaying(true), 0); // Reactiva el temporizador después de reiniciar
     playStart(); // Reproduce el sonido de inicio
+  };
+
+  const toggleWordVisibility = () => {
+    setIsWordVisible((prev) => !prev); // Alterna entre true y false
   };
 
   // Comentada para evitar el error de variable no utilizada
@@ -111,10 +116,20 @@ function App() {
           {phase.key !== "end" && selectedWord && (
             <div className="text-center mt-4">
               <p className="text-gray-400">Palabra:</p>
-              <h3 className="text-3xl font-semibold">{selectedWord.word}</h3>
+              {isWordVisible ? (
+                <h3 className="text-3xl font-semibold">{selectedWord.word}</h3>
+              ) : (
+                <h3 className="text-3xl font-semibold text-gray-500">Oculto</h3>
+              )}
               <p className="text-sm text-gray-400 mt-1">
                 Categoría: {selectedWord.category}
               </p>
+              <button
+                onClick={toggleWordVisibility}
+                className="bg-yellow-500 hover:bg-yellow-600 px-4 py-2 rounded text-sm font-semibold mt-2"
+              >
+                {isWordVisible ? "Ocultar palabra" : "Mostrar palabra"}
+              </button>
               <button
                 onClick={rerollWord}
                 disabled={phase && phase.key === "ready"} // Asegúrate de que phase no sea null
