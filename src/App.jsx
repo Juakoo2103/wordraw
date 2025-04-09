@@ -2,6 +2,7 @@ import { useState } from "react";
 import TeamSetup from "./components/TeamSetup";
 import GamePhase from "./components/GamePhase";
 import WinnerScreen from "./components/WinnerScreen";
+import DrawScreen from "./components/DrawScreen";
 import useSound from "use-sound";
 import data from "./data/words.json";
 
@@ -33,6 +34,7 @@ function App() {
   const [scores, setScores] = useState([]); // Puntuaciones de los equipos
   const [winner, setWinner] = useState(null); // Equipo ganador
   const [currentParticipant, setCurrentParticipant] = useState(null); // Participante actual
+  const [isDraw, setIsDraw] = useState(false); // Empate
 
   const phase = phases[phaseIndex] || null;
 
@@ -98,8 +100,8 @@ function App() {
       setError("El número de equipos debe estar entre 2 y 4.");
       return;
     }
-    if (participants.length === 0) {
-      setError("Debes agregar al menos un participante.");
+    if (participants.length < 2) {
+      setError("Debes agregar al menos 2 participantes.");
       return;
     }
 
@@ -166,24 +168,35 @@ function App() {
       const nextParticipant = getNextParticipant(currentRound);
       setCurrentParticipant(nextParticipant);
       setCurrentRound(currentRound + 1);
+
+      // Seleccionar una nueva palabra
+      const rand = Math.floor(Math.random() * words.length);
+      setSelectedWord(words[rand]);
+
       setPhaseIndex(0); // Reiniciar a la fase "ready"
       setTimerKey((prevKey) => prevKey + 1); // Reiniciar el temporizador
       setIsPlaying(true); // Asegurar que el temporizador esté activo
       playStart(); // Reproducir el sonido en la fase "ready"
     } else {
-      setPhaseIndex(-1); // Finalizar el juego
-      setIsPlaying(false);
-
-      // Determinar el ganador
+      // Verificar si hay un empate
       const maxScore = Math.max(...scores);
-      const winningTeam = teams.find((_, index) => scores[index] === maxScore);
-      setWinner(winningTeam);
+      const winningTeams = teams.filter(
+        (_, index) => scores[index] === maxScore
+      );
+
+      if (winningTeams.length > 1) {
+        setIsDraw(true); // Mostrar pantalla de empate
+      } else {
+        setWinner(winningTeams[0]); // Mostrar el ganador
+      }
+
+      setIsPlaying(false);
     }
   };
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-blue-900 to-gray-900 text-white p-4">
-      <h1 className="text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-red-600 animate-pulse">
+      <h1 className="text-5xl font-bold mb-8 text-center animate-pulse">
         WorDraw! ✏️
       </h1>
 
@@ -191,11 +204,14 @@ function App() {
         <WinnerScreen
           winner={winner}
           onRestart={() => window.location.reload()}
-          className="bg-gradient-to-r from-green-400 to-blue-500 hover:from-green-500 hover:to-blue-600 px-6 py-2 rounded-lg text-lg font-semibold shadow-lg transition-all duration-300"
         />
       )}
 
-      {!isPlaying && !winner && (
+      {!isPlaying && isDraw && (
+        <DrawScreen onRestart={() => window.location.reload()} />
+      )}
+
+      {!isPlaying && !winner && !isDraw && (
         <TeamSetup
           numTeams={numTeams}
           setNumTeams={setNumTeams}
@@ -207,7 +223,6 @@ function App() {
           updateTeamName={updateTeamName}
           startRound={startRound}
           error={error}
-          className="bg-gradient-to-r from-green-400 to-blue-500 hover:from-green-500 hover:to-blue-600 px-6 py-2 rounded-lg text-lg font-semibold shadow-lg transition-all duration-300"
         />
       )}
 
@@ -223,7 +238,6 @@ function App() {
           toggleWordVisibility={toggleWordVisibility}
           rerollWord={rerollWord}
           handleGuess={handleGuess}
-          className="bg-gradient-to-r from-green-400 to-blue-500 hover:from-green-500 hover:to-blue-600 px-6 py-2 rounded-lg text-lg font-semibold shadow-lg transition-all duration-300"
         />
       )}
     </div>
