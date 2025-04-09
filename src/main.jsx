@@ -6,8 +6,5 @@ import App from "./App.jsx";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <App />
-    <div className="bg-red-500 text-white p-4">
-      Esto debería tener un fondo rojo.
-    </div>
   </StrictMode>
 );
