@@ -10,8 +10,8 @@ import startSfx from "./assets/sounds/start.m4a";
 
 const phases = [
   { key: "ready", label: "¡Preparados!", duration: 3 },
-  { key: "draw", label: "¡Dibuja ahora!", duration: 10 },
-  { key: "guess", label: "¡Adivina!", duration: 10 },
+  { key: "draw", label: "¡Dibuja ahora!", duration: 60 },
+  { key: "guess", label: "¡Adivina!", duration: 20 },
   { key: "end", label: "¡Tiempo terminado!", duration: 0 },
 ];
 
